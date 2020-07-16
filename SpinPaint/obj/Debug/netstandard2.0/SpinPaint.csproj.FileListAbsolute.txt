@@ -1,0 +1,12 @@
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.deps.json
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.dll
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.pdb
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.csprojAssemblyReference.cache
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.csproj.CoreCompileInputs.cache
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.AssemblyInfoInputs.cache
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.AssemblyInfo.cs
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.dll
+C:\Users\Topsey Creet\Downloads\xamarin\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.pdb
